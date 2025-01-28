@@ -1,6 +1,14 @@
 # Bank-Loan-Finance-Domain
 Data Analysis Project | SQL | Power BI  | Excel
 
+![Screenshot 2025-01-28 172609](https://github.com/user-attachments/assets/34e96527-5eec-453c-bd5e-5255153f6022)
+![Screenshot 2025-01-28 172633](https://github.com/user-attachments/assets/6916d16b-c093-4f38-9c64-c8e349292422)
+![Screenshot 2025-01-28 172652](https://github.com/user-attachments/assets/6b99052a-77a0-41b5-8ee3-4577adbc01cf)
+![Screenshot 2025-01-28 172748](https://github.com/user-attachments/assets/10e41880-71c5-4719-a636-5bf64a0a73e1)
+![Screenshot 2025-01-28 172807](https://github.com/user-attachments/assets/67f9e75e-c2bf-45a6-9c42-8aa0a942c77b)
+
+
+
 
 # Bank Loan Data Analysis
 
